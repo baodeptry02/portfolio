@@ -51,7 +51,7 @@ ScrollReveal({
 
  /* typed js, https://github.com/mattboldt/typed.js */
  const typed = new Typed ('.multiple-text', {
-  strings: ['Fullstack Developer', 'Gamer', 'Useless Person'],
+  strings: ['Fullstack Developer', 'Gamer', 'Blogger'],
   typeSpeed: 50,
   backSpeed: 50,
   backDelay: 500,
